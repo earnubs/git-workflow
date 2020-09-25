@@ -2,3 +2,4 @@
 Playing with different git workflows
 
 Hello world
+Hello again
